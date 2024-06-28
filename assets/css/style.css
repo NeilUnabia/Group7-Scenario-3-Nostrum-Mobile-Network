@@ -20,7 +20,7 @@ h1, h2 {
 button {
     padding: 10px 20px;
     color: white;
-    background-color: rgb(49, 228, 49);
+    background-color: rgb(73, 174, 73);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -219,5 +219,5 @@ header div input::placeholder {
 }
 
 .submit{
-    
+
 }

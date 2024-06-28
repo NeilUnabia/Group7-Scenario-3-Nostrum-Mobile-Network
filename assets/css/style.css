@@ -74,7 +74,38 @@ header div img {
     margin-left: 5px;
 }
 
+header div input::placeholder {
+    color: white;
+}
 
+/* hero */
+.hero {
+    background: url("../img/skyline-buildings-new-york-skyscrapers\ 2.jpg") no-repeat center center;
+    background-size: cover;
+    height: 25rem;
+    width: 100%;
+    position: absolute;
+}
+
+.hero_content {
+    display: flex;
+    margin-top: 4rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.hero_content1 {
+    width: 30rem;
+}
+
+.hero_content1 button {
+    margin-top: 3rem;
+}
+
+.device_black {
+    width: 25rem;
+}
 
 /* tech */
 .tech {
